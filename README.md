@@ -2,6 +2,8 @@
 
 A personalized, multimodal AI travel concierge agent built with **Google ADK (Agent Development Kit)** and **Google Cloud AI Platform**. The agent helps travelers discover destinations, search catalog items, retrieve weather and local time, find nearby points of interest, convert currencies, generate AI visual artwork and short video previews, and render dynamic interactive **A2UI (Agent-to-User Interface)** cards.
 
+![Travel Concierge Assistant Demo](./docs/demo.gif)
+
 ---
 
 ## 🌟 Architecture & Features
